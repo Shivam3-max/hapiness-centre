@@ -1,0 +1,914 @@
+{
+ "_warning": "PLACEHOLDER kg/months/goal values. Real photos of real people \u2014 replace every field except the image paths before launch.",
+ "placeholder": true,
+ "stories": [
+  {
+   "id": "hc-0448",
+   "slug": "story-01",
+   "goal": "diabetes",
+   "goalLabel": "Diabetes care",
+   "kg": -14,
+   "months": 4,
+   "ageBracket": "50s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0448_before.webp",
+      "w": 626,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoIABAAA4BaJbACdADzdcZBOoAA/pUOSfxbqXLqGio41i75CWGyA3rKhb+SYX7fWPQUPqge2fwhXIz0eX6ZObH+9nKBw0w6zUIKhVgfv41Hv69uX/AAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0448_after.webp",
+      "w": 644,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoIABAAA4BaJZACdH8AE776qGO0AP7wpHKxPHlhNPdGDbFzf3oihuQcyLun20ClkvzYPtdLFgZo0t3bg7wkloXFrc4VoA1+bwOq0xsG/9AAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0448_before.webp",
+      "after": "/transformations/full/0448_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0449",
+   "slug": "story-02",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -16,
+   "months": 4,
+   "ageBracket": "60s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0449_before.webp",
+      "w": 626,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoIABAAA4BaJbACdH8AFc2g5bMIgAD+4kyXI8g59FEuaWguDHeEoak/PuB+fSnmPljJ45wV+1nPxcsICO1EMEKA5qQB4PmZhqiYwBWKJRHY2TagAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0449_after.webp",
+      "w": 644,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoIABAAA4BaJZQBTAAxXHAdxxgA/uu8IzasgH2MXYFFp6Id2sXjvLNx6+r8duTjM/BZd/+LSsohpHZ6cM2SjJth7TvSo4V89cDNoLdGiLE68AAA"
+     },
+     "full": {
+      "before": "/transformations/full/0449_before.webp",
+      "after": "/transformations/full/0449_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0450",
+   "slug": "story-03",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -12,
+   "months": 7,
+   "ageBracket": "60s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0450_before.webp",
+      "w": 706,
+      "h": 1096,
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoKABAAA4BaJZgCdAD0uPlk8LUAAP7uZEhYhZXubMtTyN+/MBKNmNn9GXIGs9L/NVJR9BmO4iEU46zxRxa+gsI1W9tcAAAA"
+     },
+     "after": {
+      "src": "/transformations/card/0450_after.webp",
+      "w": 564,
+      "h": 1096,
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoIABAAA4BaJYwC7AEf/Uj7SZgAAP7YZo0iG22rju0+rnHwzWjpm595ViKuvxP8AOH5v1ZHSVq9sd21pOvteSXlfcRQbDgA"
+     },
+     "full": {
+      "before": "/transformations/full/0450_before.webp",
+      "after": "/transformations/full/0450_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0452",
+   "slug": "story-04",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -13,
+   "months": 7,
+   "ageBracket": "30s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0452_before.webp",
+      "w": 639,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoJABAAA4BaJYgAAp06CMaYAAD+6Kfop7rIjcs49XQtHZ8IukQiNTbCQAIWPVlW36ngr/0/Y6sBdHidlO4HrgMRqAAAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0452_after.webp",
+      "w": 631,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoJABAAA4BaJZACdAED8md4Y4AA/ud6OUzFyIdb2lmq35M6U+7qqSbI/r4VXs80WEDcKYkw7D9eRekBR5vTFslCFVsXdAWoR9AAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0452_before.webp",
+      "after": "/transformations/full/0452_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0453",
+   "slug": "story-05",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -15,
+   "months": 8,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0453_before.webp",
+      "w": 629,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoJABAAA4BaJbACdAD0TFqT5kAA/uKNacwuqeAu2t4x6AfyFb4zCtM5uSUHGBqwLf60zy7F8/yEFDkjG5lLD1lAbbSUFu6IgOMrWFLwjox0UAAA"
+     },
+     "after": {
+      "src": "/transformations/card/0453_after.webp",
+      "w": 641,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACwAQCdASoJABAAA4BaJYgCdADZHCyEAP7zyKllG1NJl8VZxZsKR773dG3j/yKQlcN4KTdKIEimIhQ1W4BwAivTIifgBiTSsMzqImegAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0453_before.webp",
+      "after": "/transformations/full/0453_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0454",
+   "slug": "story-06",
+   "goal": "senior-wellness",
+   "goalLabel": "Senior wellness",
+   "kg": -9,
+   "months": 3,
+   "ageBracket": "20s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0454_before.webp",
+      "w": 629,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoJABAAA4BaJQBOgCP7mvgV4AAA/uioWYp+ayDgxLJpm1U/BkVfR6Wx0rmUDZ6oisN1fd7/hPHWQPbSzaw6mb5T+Kqy5BWB9TgAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0454_after.webp",
+      "w": 641,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoJABAAA4BaJQBdj+ADAzuZLuoAAP7wh452w4/BnHqmvQJOF685qelZvOatkBiN5ymiqn9Q8lhlffwXiqJOpibChoBP40UXsAA="
+     },
+     "full": {
+      "before": "/transformations/full/0454_before.webp",
+      "after": "/transformations/full/0454_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0455",
+   "slug": "story-07",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -16,
+   "months": 8,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0455_before.webp",
+      "w": 629,
+      "h": 1085,
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoJABAAA4BaJYgC7AD0Pcg7gAD+2GPkVlUg6iVME2N/7QaT487IbyqF67RExiZF/dEthGsM1KUDES6ZRx54zvo9E7+TewmAAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0455_after.webp",
+      "w": 641,
+      "h": 1085,
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoJABAAA4BaJbACdADdIYX3SmAA/rO3KO91lXIWImRf1YGxwVeW4liRYsuZ13Lhs7jvT/cAkR0tRxhQT5nvsA8dDVfHn9V/G8/hGQ/e1epAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0455_before.webp",
+      "after": "/transformations/full/0455_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0456",
+   "slug": "story-08",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -9,
+   "months": 6,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0456_before.webp",
+      "w": 626,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoIABAAA4BaJZQAAld336/AAP7yahovaf344tZf4fazXU912xhklm1vdKq8vp+s/oJrjM3dVUIxeIlxdZQZli/dpSB+zdYA"
+     },
+     "after": {
+      "src": "/transformations/card/0456_after.webp",
+      "w": 644,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoIABAAA4BaJYwBTAA6YY7jVeQA/vPD/rZ4xpDcgAG6WOXGsVSnR9CxgyR/r6zNrP067k+u87Ar2Y8pq/7MAahqzHhtv5xaq6Uk70qlwAA="
+     },
+     "full": {
+      "before": "/transformations/full/0456_before.webp",
+      "after": "/transformations/full/0456_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0457",
+   "slug": "story-09",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -20,
+   "months": 6,
+   "ageBracket": "30s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0457_before.webp",
+      "w": 639,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoJABAAA4BaJQBOgB6R6Pu89cgA/uihsafRyzuIMKRwulgy4uLRLiFexQIFPuBL5GmOxBN/+JI+N5ajJR5vfjDAAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0457_after.webp",
+      "w": 631,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoJABAAA4BaJbACdADdKtgXRqHAAP7wi16Y3X15lOCNYVmeVBuskGAk9zmuQ4apw/s/3uo4+pfDKHphXEeEl8GFw7DzbpjcrMAqLpwAAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0457_before.webp",
+      "after": "/transformations/full/0457_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0458",
+   "slug": "story-10",
+   "goal": "diabetes",
+   "goalLabel": "Diabetes care",
+   "kg": -7,
+   "months": 9,
+   "ageBracket": "50s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0458_before.webp",
+      "w": 670,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoIABAAA4BaJQBdgCP/8p9SOoAA/thxHyLRZnmz1wZFOQa7hOEa4qWbhHQnd9bu6nYqYutn2ZBRpejkknMUCMVJ0AA="
+     },
+     "after": {
+      "src": "/transformations/card/0458_after.webp",
+      "w": 600,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoHABAAA4BaJZAC7ADdYDoE+AAA/uvBoxK+cm+9pVS+O2cWOT5kpD185EnTFEeN8cUck3+DGvvctp0HRloghxO3oRw9Kd3/h9oQAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0458_before.webp",
+      "after": "/transformations/full/0458_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0459",
+   "slug": "story-11",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -19,
+   "months": 7,
+   "ageBracket": "60s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0459_before.webp",
+      "w": 642,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoIABAAA4BaJbACdAEf+fd3QgAA/vIu7NsY9b9VMG90Vtaf5iWnwBpgdPonassuzDPovA45wGtcihwe5MXzsNJ+r4k2rNZlBGfbeel8MNGigAAA"
+     },
+     "after": {
+      "src": "/transformations/card/0459_after.webp",
+      "w": 628,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoIABAAA4BaJQAAYsxMPk6VoAD+4kyygc5ClwVzbDmZvGrePFm8IaFXe1QdenHHD7zMCNYjmqyUiukhPcR6XxMFFQAAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0459_before.webp",
+      "after": "/transformations/full/0459_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0460",
+   "slug": "story-12",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -14,
+   "months": 8,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0460_before.webp",
+      "w": 628,
+      "h": 1168,
+      "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAQCdASoJABAAA4BaJYgCdADbHIVwAP7nryp/SQLd3UqjeH8OYp2fo3Eoa4XTPExochF0gqPTP2aavFZ93aYfm5WGzeDB8Ra9i8ey342H/Gbg8r5vvlKtvGj5kKAA"
+     },
+     "after": {
+      "src": "/transformations/card/0460_after.webp",
+      "w": 642,
+      "h": 1168,
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoJABAAA4BaJbACw7D0ZCpqkaAA/pr+OZoZyRGCKfnN1ean/K8cArni/MUrPhgd8JKgMGULDLtsv8vdoV9+3uNM22f+qBxCz6RJHDTF3AAAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0460_before.webp",
+      "after": "/transformations/full/0460_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0461",
+   "slug": "story-13",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -8,
+   "months": 7,
+   "ageBracket": "70s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0461_before.webp",
+      "w": 695,
+      "h": 1228,
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoJABAAA4BaJQBOj+ACdLgFzlR6gAD+67tTTV1A5xN71brtY0ueP2bOday1OlS/eI0HyD1iKLMEJ0kEl/PnNxG6J4f8QaveM8yRN9u5VQ8AAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0461_after.webp",
+      "w": 575,
+      "h": 1228,
+      "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoHABAAA4BaJYwCdAD0s4YIHQAA/uJ7D7vxAF12hUsrnYICVcBGZV4O9MlVBQ5h9G55WZrHhBXTeBmFFgYup9wA"
+     },
+     "full": {
+      "before": "/transformations/full/0461_before.webp",
+      "after": "/transformations/full/0461_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0462",
+   "slug": "story-14",
+   "goal": "diabetes",
+   "goalLabel": "Diabetes care",
+   "kg": -11,
+   "months": 3,
+   "ageBracket": "50s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0462_before.webp",
+      "w": 629,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoJABAAA4BaJYwCsADdrrhdQkAA/uKUkZV19N1noIWvhTTZdYDAhw5t8+C692FMkWO8KZduhPZh9k1eRx0ZazxLptSYhUPUZTTAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0462_after.webp",
+      "w": 641,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoJABAAA4BaJQBdgCP/zaTrDcwAAP7yNPRUFkqc9dvHpyuPeGyZPYsl1C1Qe88M5YpTU9fZFpPzhs1ml2Frhby1wDrdVQBfvo3oaAAA"
+     },
+     "full": {
+      "before": "/transformations/full/0462_before.webp",
+      "after": "/transformations/full/0462_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0463",
+   "slug": "story-15",
+   "goal": "thyroid-pcos",
+   "goalLabel": "Thyroid & PCOS",
+   "kg": -8,
+   "months": 9,
+   "ageBracket": "70s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0464_before.webp",
+      "w": 629,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoIABAAA4BaJbAC7ADdpmGGTqqAAP7ybLChj9guNurUxVft+enoMyifwH8z7B1j2OGn0FGgYrgr0NQGtHDWeZdK4PP4/pNIfrGmJ8A9ikG/yXHiGgAAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0464_after.webp",
+      "w": 641,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoIABAAA4BaJbACdAD0ljLvKwjgAP7uWJFCXrku2hiufecIfRbU19OOhaB1UCNCcVlO2FCMkj2E3L3B/7jA/p/txn4Qyo+g5SuNbZPz7yWwuAAA"
+     },
+     "full": {
+      "before": "/transformations/full/0464_before.webp",
+      "after": "/transformations/full/0464_after.webp"
+     }
+    },
+    {
+     "view": "side",
+     "before": {
+      "src": "/transformations/card/0463_before.webp",
+      "w": 639,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoJABAAA4BaJbAC7AELZV6EED/gAP7wpF1mNCen13UO28OdNqH62KGVKzbYm+QmAY9tesGobGWR0v8HfWOx3YphCAnntVD0AamXTl8vMgp6KdsYjzeYKbTWGl+AAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0463_after.webp",
+      "w": 631,
+      "h": 1132,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoJABAAA4BaJbACdAD0TWvD5TyrAAD+7liRQl7e652Xl/GZL9Fu6cEv3/EvTeXxaBTZm2849JMxZ6LUcRULtJ53j9qaXDtYk542K3pXxWDAAAAA"
+     },
+     "full": {
+      "before": "/transformations/full/0463_before.webp",
+      "after": "/transformations/full/0463_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0465",
+   "slug": "story-16",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -8,
+   "months": 7,
+   "ageBracket": "70s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0465_before.webp",
+      "w": 622,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoIABAAA4BaJYgCdAED7FNhxMcAAP7oqz6scmQze8XJp6KL6SK+jcGzIHUVV7TrNWAo0FOzmqV2SMDuzDAkkHpl2N41WGYjzw8DTmZgAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0465_after.webp",
+      "w": 648,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoIABAAA4BaJYwCdIIjGBi0jT3/IAD+7jWYP3VyduLS+z9XxxL0rykgm/fIBnXh5NkhgU8N7Kg2kWFdlP6z6H1KlIS9VMtUgDWoRiAS9CTfFwAA"
+     },
+     "full": {
+      "before": "/transformations/full/0465_before.webp",
+      "after": "/transformations/full/0465_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0466",
+   "slug": "story-17",
+   "goal": "weight-gain",
+   "goalLabel": "Weight gain",
+   "kg": 6,
+   "months": 9,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0466_before.webp",
+      "w": 474,
+      "h": 1113,
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoHABAAA4BaJbACdAEOYTsmSADN/dB4vZVJJmoUR6c72nJHZfPinxcBp6/XyPdU04md+Z9wfTlnPWdTA35xp5YI5O/vVE/8uAKkEAAA"
+     },
+     "after": {
+      "src": "/transformations/card/0466_after.webp",
+      "w": 481,
+      "h": 1113,
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoHABAAA4BaJQBOgBt9oN713gAA/tXokKHM+JZBiw0QqAu7jS8DQJVIELLEG5RHDO4vMDjI9zYUnOAELaCupDV6YITP1OxX4ChAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0466_before.webp",
+      "after": "/transformations/full/0466_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0467",
+   "slug": "story-18",
+   "goal": "weight-gain",
+   "goalLabel": "Weight gain",
+   "kg": 7,
+   "months": 3,
+   "ageBracket": "60s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0467_before.webp",
+      "w": 629,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoIABAAA4BaJZQAAxf/xLStLOYAAP7wpHKxjefT8yFnqv3BSBVv/ViEfpLdE2WQXXLsTJvEnA8xPeMZqRmTDZMXwvszAAAEkAA="
+     },
+     "after": {
+      "src": "/transformations/card/0467_after.webp",
+      "w": 641,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoIABAAA4BaJQBOj+ACd9c3JcjQAP7wpHKxje3h3k0hY2T/zJx9rxmR1lgVQAPfZ7eMUiiAoI98Bncb65Gd+uZBJ2OC8OhDMtjNtbNirCjclNMG6OAAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0467_before.webp",
+      "after": "/transformations/full/0467_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0468",
+   "slug": "story-19",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -14,
+   "months": 9,
+   "ageBracket": "70s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0468_before.webp",
+      "w": 633,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoIABAAA4BaJZwC7AD0me9gR5AA/m0f8FqbquziiBw0NHGdy7dbdyXckV/DhvD5awcUPG9hX2jnLE3AAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0468_after.webp",
+      "w": 637,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoIABAAA4BaJYwCdAEfavjytgAA/psEEZ7+55UmrcwegBiYU7FDxo4rE6pyTWXpDWx/FCFwrU+KVVUAAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0468_before.webp",
+      "after": "/transformations/full/0468_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0469",
+   "slug": "story-20",
+   "goal": "senior-wellness",
+   "goalLabel": "Senior wellness",
+   "kg": -10,
+   "months": 5,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0469_before.webp",
+      "w": 678,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoIABAAA4BaJQBOj+ACd78s/wsqpwAA/uu8Iz0XDHfID5TCigtF/4fU70Id9sRjJsS5mt+WR1DPMufPof12yIB9LPVLFM9PIHpaRKJCDVPFQAAA"
+     },
+     "after": {
+      "src": "/transformations/card/0469_after.webp",
+      "w": 592,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoHABAAA4BaJbACdAD0TvXCiAD+4o0YtcvGkfVD+JRjDCpkWkPywnDDg33IfeEF+SOyKQmxhRmiU7dgAzBIjJRk3B/XsZI4/IfObAvs3BvmCV8AAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0469_before.webp",
+      "after": "/transformations/full/0469_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0471",
+   "slug": "story-21",
+   "goal": "diabetes",
+   "goalLabel": "Diabetes care",
+   "kg": -12,
+   "months": 4,
+   "ageBracket": "30s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0471_before.webp",
+      "w": 625,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAgCdASoIABAAA4BaJZgCdAEXfscAdlWjQAD8C1Nv9LbxfsB2YRT3tpHbYDXqUtgtJhpONbM4ogawIiSOTFKp0KloZmSc/TiACNWWn5JKAAAA"
+     },
+     "after": {
+      "src": "/transformations/card/0471_after.webp",
+      "w": 645,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoIABAAA4BaJbACdADzguYUy8gA/pj5BkIU3PoI6DQmNAMGzlxSyfoplgpmX+XeiKZQUHTSOUrCn+0w8dC1KGJDRLUzgCsYw4YBQYAA"
+     },
+     "full": {
+      "before": "/transformations/full/0471_before.webp",
+      "after": "/transformations/full/0471_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0472",
+   "slug": "story-22",
+   "goal": "thyroid-pcos",
+   "goalLabel": "Thyroid & PCOS",
+   "kg": -12,
+   "months": 8,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0475_before.webp",
+      "w": 513,
+      "h": 929,
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoJABAAA4BaJQBOgBuUm1LKcGwAAP7rwUVcwtHUx4NW5u8V/Dss9gNK/WfFy9/wCLufLi6tRTsAs1Ki6sP4IG9eabUwuzrxo6WCIABZAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0475_after.webp",
+      "w": 503,
+      "h": 929,
+      "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoJABAAA4BaJZACdH8AE58JubtIAP5n07lUs81iPecWK1lMpALW586raFDs28tE4IbcmpiBUGT61bp72rn/hyqCqra8UAAA"
+     },
+     "full": {
+      "before": "/transformations/full/0475_before.webp",
+      "after": "/transformations/full/0475_after.webp"
+     }
+    },
+    {
+     "view": "side",
+     "before": {
+      "src": "/transformations/card/0472_before.webp",
+      "w": 513,
+      "h": 956,
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoJABAAA4BaJQBOj+ACs7Yg6WmAAP7oq0LTE12aw7Yj4yIJ2xreN88YCv6dYv13L0NsfMjdKizpjmVuYq+SftAYoZbTHEfPt21BcTaSCHEAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0472_after.webp",
+      "w": 503,
+      "h": 956,
+      "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoIABAAA4BaJbACdAD0MbGYsoAA/rhFRDEWiaUUfkFJLI1cYkgDr3HjOHJdKimFYTVeAVOn1U3+DHMLoHx9rHZmuxPiBUfsAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0472_before.webp",
+      "after": "/transformations/full/0472_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0473",
+   "slug": "story-23",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -18,
+   "months": 4,
+   "ageBracket": "20s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0473_before.webp",
+      "w": 515,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoGABAAA4BaJZgCdH8AE7gVlI7BAAD+yrNlYZALfQi64PeFCyvSD8HLwtYBwze5jpZK/dpIGTlvCjxaIUlvdG67xdt2mEm1Bo/gx/M8G4GbWVAA"
+     },
+     "after": {
+      "src": "/transformations/card/0473_after.webp",
+      "w": 321,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoEABAAA4BaJQBOj+ADA3mJHVzgAP7rwApUUPhDvZ12x/EhE8JXukfj5qwzooUX00/nlU6481z9vcJduwAAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0473_before.webp",
+      "after": "/transformations/full/0473_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0474",
+   "slug": "story-24",
+   "goal": "thyroid-pcos",
+   "goalLabel": "Thyroid & PCOS",
+   "kg": -10,
+   "months": 4,
+   "ageBracket": "40s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0474_before.webp",
+      "w": 626,
+      "h": 998,
+      "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoKABAAA4BaJbACdLoAAZSFXgAA9lbpUYEN5YorMV/jIjhQx/AK9VmEc4w937OzOyD7uMx8w95eNdKg/NdH9y1CKdXatZREAXg//fhfP4AnMQBY5HdrbmXTt12/qj5rellLhUuAAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0474_after.webp",
+      "w": 644,
+      "h": 998,
+      "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoKABAAA4BaJZQAAi+XW544SgAA/sl06wT17cV8b7AbRuVjrCvRbM5bjmjTYkhquqNj3Usk0G0+LniOYst8ET1osGDiBYJcm35OT3wpIrErUtCOp9iu4AAQdAAAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0474_before.webp",
+      "after": "/transformations/full/0474_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0476",
+   "slug": "story-25",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -17,
+   "months": 3,
+   "ageBracket": "60s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0476_before.webp",
+      "w": 629,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoIABAAA4BaJagCdAEf3Yxn1CAl0AD+YBhWRjFO3Jp1eaAATIcSX+cZLmBfKCvDH2D4OC6NfrTZsx9nHAx4AA=="
+     },
+     "after": {
+      "src": "/transformations/card/0476_after.webp",
+      "w": 641,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAQCdASoIABAAA4BaJZQAAl23J+eAAP7JLgguNkMIlDGvogez4VdgUKwI74W2HeUgvn05cV4claHV+jSgi1YJpTSAcAAA"
+     },
+     "full": {
+      "before": "/transformations/full/0476_before.webp",
+      "after": "/transformations/full/0476_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0477",
+   "slug": "story-26",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -14,
+   "months": 8,
+   "ageBracket": "60s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0477_before.webp",
+      "w": 691,
+      "h": 1218,
+      "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoJABAAA4BaJZwAAxfosKiGAAD+6KidOTkQ5d+b4wlnmoAbtozmSM6vLmWFfYnBkmJZPGMcIRRFeWMEnaqw4ntiAFAAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0477_after.webp",
+      "w": 579,
+      "h": 1218,
+      "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoIABAAA4BaJZwAAxf+EIJWVcAA/uiigBtq2rx9+DC251JFnLo52cH7t/V5/Ex6vrotxZe5Drbgg3Bfw1rfNhUAAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0477_before.webp",
+      "after": "/transformations/full/0477_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0478",
+   "slug": "story-27",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -11,
+   "months": 5,
+   "ageBracket": "50s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0478_before.webp",
+      "w": 693,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoJABAAA4BaJZgCdAD5hLlYy/AAAP7JYXI2eRBoEjk4UcpFGIyhz53kgiaI/phED7QxQtHBL1EisSYRBJrCq9J5FC+R1eOrPcdS9SNlNAAAAA=="
+     },
+     "after": {
+      "src": "/transformations/card/0478_after.webp",
+      "w": 577,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoHABAAA4BaJYwCdAEfbqcipbEAAP7wpdnhn3o4X9H9DeNg5ng2d6nf0v2RJBBHyyqBk81uv1endQnt534zFXajF+h4msrvsoYVFmRXAAA="
+     },
+     "full": {
+      "before": "/transformations/full/0478_before.webp",
+      "after": "/transformations/full/0478_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0479",
+   "slug": "story-28",
+   "goal": "weight-loss",
+   "goalLabel": "Weight loss",
+   "kg": -20,
+   "months": 6,
+   "ageBracket": "20s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0479_before.webp",
+      "w": 629,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoIABAAA4BaJbACdAD0TFZJjWgA/th2qyuHpqtwYWq/Wenu2yIB5rfBgRFvOnW7QkTwWK+3Trt47dr5A+mdl7CIbOeNAOQPtTt46fIAAAA="
+     },
+     "after": {
+      "src": "/transformations/card/0479_after.webp",
+      "w": 641,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoIABAAA4BaJZgC7AED5Ak46MAA/u5k5PmYc5Zc41Mn+bi2/8XXMSnCW1aojJAw1qlaYgY6YZ4oMT8ksUIVXeQRrrk2MUh41BeAAA=="
+     },
+     "full": {
+      "before": "/transformations/full/0479_before.webp",
+      "after": "/transformations/full/0479_after.webp"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hc-0480",
+   "slug": "story-29",
+   "goal": "senior-wellness",
+   "goalLabel": "Senior wellness",
+   "kg": -7,
+   "months": 7,
+   "ageBracket": "70s",
+   "views": [
+    {
+     "view": "front",
+     "before": {
+      "src": "/transformations/card/0480_before.webp",
+      "w": 478,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoGABAAA4BaJZwAAppxLC5AAP4Ljhnq1qXd29wJ/1NkJafViKAM+qCLTpmvHDO9AAA="
+     },
+     "after": {
+      "src": "/transformations/card/0480_after.webp",
+      "w": 476,
+      "h": 1280,
+      "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoGABAAA4BaJQBOgBuBnmAAAP4KtuLpYhB7IEswVOQOyBwi/gmqb0nYD6pEl4hz5RGgDIcW0iH1NeGmQAA="
+     },
+     "full": {
+      "before": "/transformations/full/0480_before.webp",
+      "after": "/transformations/full/0480_after.webp"
+     }
+    }
+   ]
+  }
+ ]
+}
