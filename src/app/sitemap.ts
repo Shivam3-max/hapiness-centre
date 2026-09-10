@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
 import { PROGRAMS, PRODUCTS } from "@/data/content";
 import { POSTS } from "@/data/journal";
+import { SITE_URL } from "@/lib/site";
 
-const BASE = "https://happinesscentre.in";
+const BASE = SITE_URL;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [

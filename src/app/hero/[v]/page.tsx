@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import HeroPoster from "@/components/heroes/HeroPoster";
 import HeroEditorial from "@/components/heroes/HeroEditorial";
@@ -22,3 +23,5 @@ export default async function HeroOption({ params }: { params: Promise<{ v: stri
   const { C } = hit;
   return <C />;
 }
+
+export const metadata: Metadata = { robots: { index: false, follow: false } };

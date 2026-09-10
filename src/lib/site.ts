@@ -1,3 +1,14 @@
+/**
+ * Canonical origin. Vercel sets VERCEL_PROJECT_PRODUCTION_URL on every deploy,
+ * so previews and production both resolve correctly before a domain is attached.
+ * Override with NEXT_PUBLIC_SITE_URL once the real domain is live.
+ */
+export const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL
+    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+    : "https://happinesscentre.in");
+
 export const SITE = {
   name: "Happiness Centre",
   city: "Zirakpur",

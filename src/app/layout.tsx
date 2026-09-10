@@ -4,6 +4,7 @@ import "./globals.css";
 import SmoothScroll from "@/components/SmoothScroll";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import { SITE_URL } from "@/lib/site";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -28,7 +29,7 @@ const anton = Anton({
 
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://happinesscentre.in"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Happiness Centre — Zirakpur",
     template: "%s · Happiness Centre",

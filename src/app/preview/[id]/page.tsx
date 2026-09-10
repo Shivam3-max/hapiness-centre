@@ -2,6 +2,7 @@
  * Dev-only harness: renders one section at the top of an otherwise empty page
  * so it can be screenshotted. Delete before launch (see README → Before launch).
  */
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Concerns from "@/components/home/Concerns";
 import Pillars from "@/components/home/Pillars";
@@ -37,3 +38,5 @@ export default async function Preview({ params }: { params: Promise<{ id: string
     </div>
   );
 }
+
+export const metadata: Metadata = { robots: { index: false, follow: false } };

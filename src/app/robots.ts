@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
+import { SITE_URL } from "@/lib/site";
 
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: { userAgent: "*", allow: "/", disallow: "/preview/" },
-    sitemap: "https://happinesscentre.in/sitemap.xml",
+    rules: { userAgent: "*", allow: "/", disallow: ["/preview/", "/hero/"] },
+    sitemap: `${SITE_URL}/sitemap.xml`,
   };
 }

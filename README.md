@@ -13,6 +13,12 @@ section on its own (dev harness).
 
 ---
 
+## Deploying
+
+Vercel, zero configuration — framework auto-detected, no environment variables
+required, no database. Node >= 20.9 (pinned in `engines`). Every route is
+prerendered as static or SSG.
+
 ## ⚠️ Before launch
 
 Everything below is placeholder and **must be replaced**.
@@ -42,8 +48,10 @@ Everything below is placeholder and **must be replaced**.
 ### Engineering
 - [ ] **Forms do not submit anywhere.** `StepForm` collects state and shows a
       confirmation. Wire `/free-day` and `/consultation` to a real endpoint.
-- [ ] Delete `src/app/preview/` (dev-only; already disallowed in `robots.ts`).
-- [ ] Set the real domain in `layout.tsx` (`metadataBase`), `sitemap.ts`, `robots.ts`.
+- [ ] Delete `src/app/preview/` and `src/app/hero/` (dev-only; both are `noindex`
+      and disallowed in `robots.ts`, but they are still publicly reachable).
+- [ ] Set `NEXT_PUBLIC_SITE_URL` in Vercel once the real domain is attached. Until then
+      the origin falls back to Vercel's own deploy URL, so canonicals stay correct.
 - [ ] Have `/privacy` and `/terms` reviewed by a qualified professional.
 
 ---
