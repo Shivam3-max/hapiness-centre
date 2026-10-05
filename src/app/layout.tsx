@@ -4,6 +4,8 @@ import "./globals.css";
 import SmoothScroll from "@/components/SmoothScroll";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import Stage from "@/components/stage/Stage";
+import DayClock from "@/components/motion/DayClock";
 import { SITE_URL } from "@/lib/site";
 
 const fraunces = Fraunces({
@@ -53,6 +55,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="antialiased">
         <SmoothScroll />
+        <Stage />
+        <DayClock />
         <SiteHeader />
         <main>{children}</main>
         <SiteFooter />
