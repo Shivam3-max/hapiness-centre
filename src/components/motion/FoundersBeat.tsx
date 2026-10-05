@@ -1,15 +1,16 @@
 import Link from "next/link";
 import Placeholder from "./Placeholder";
 import { COACHES } from "@/data/content";
+import { FOUNDERS } from "@/data/copy";
 
 export default function FoundersBeat() {
   return (
     <section className="relative flex min-h-[100svh] items-center py-24">
       <div className="mx-auto w-full max-w-[1180px] px-5 sm:px-8">
         <div className="max-w-[40rem]">
-          <p className="eyebrow">Who you’ll meet</p>
+          <p className="eyebrow">{FOUNDERS.eyebrow}</p>
           <h2 className="editor mt-7 text-[clamp(2.1rem,5.6vw,4.2rem)] leading-[1.04] text-forest">
-            Two people who will<br />know your name.
+{FOUNDERS.title}
           </h2>
         </div>
 

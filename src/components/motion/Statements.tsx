@@ -49,12 +49,12 @@ export default function Statements({
       <div className="sticky top-0 flex h-[100svh] flex-col items-center justify-center overflow-hidden px-5">
         <p className="eyebrow absolute top-[17vh]">{eyebrow}</p>
 
-        <div className="relative flex w-full max-w-[17ch] items-center justify-center sm:max-w-[24ch] lg:max-w-[30ch]">
+        <div className="relative flex w-full max-w-[19rem] items-center justify-center sm:max-w-[34rem] lg:max-w-[48rem]">
           {lines.map((l, i) => (
             <p
               key={l.text}
               ref={(node) => { items.current[i] = node; }}
-              className="editor absolute w-full text-center text-balance text-[clamp(1.75rem,4.4vw,3.6rem)] leading-[1.08] text-forest will-change-[opacity,transform,filter]"
+              className="editor absolute w-full text-center text-balance text-[clamp(1.9rem,5.2vw,4.4rem)] leading-[1.06] text-forest will-change-[opacity,transform,filter]"
               style={{ opacity: i === 0 ? 1 : 0 }}
             >
               {l.accent ? (<>{l.text} <em className="italic text-amber-deep">{l.accent}</em></>) : l.text}

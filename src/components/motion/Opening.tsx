@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useEffect, useRef } from "react";
 import { subscribeScroll } from "@/lib/scrollStore";
 import { useFormation } from "../stage/useFormation";
+import { OPENING } from "@/data/copy";
 
 export default function Opening() {
   const section = useFormation<HTMLElement>("orb");
@@ -21,17 +22,16 @@ export default function Opening() {
   return (
     <section ref={section} className="relative flex min-h-[100svh] items-center justify-center px-5 pt-[76px]">
       <div ref={inner} className="relative w-full max-w-[52rem] text-center will-change-[opacity,transform]">
-        <p className="eyebrow">Happiness Centre · Zirakpur</p>
+        <p className="eyebrow">{OPENING.eyebrow}</p>
 
         <h1 className="editor mt-8 text-[clamp(2.6rem,7.6vw,6.4rem)] leading-[1.02] text-forest">
-          You don’t get a diet.
+          {OPENING.line1}
           <br />
-          You get <em className="italic text-amber-deep">a day</em>.
+          {OPENING.line2} <em className="italic text-amber-deep">{OPENING.line2Accent}</em>
         </h1>
 
         <p className="mx-auto mt-8 max-w-[40ch] text-[1rem] leading-relaxed text-muted">
-          Meals, movement, a morning ritual and our own products — one complete day,
-          built around your body.
+{OPENING.sub}
         </p>
 
         <div className="mt-11 flex flex-wrap items-center justify-center gap-3">
@@ -46,7 +46,7 @@ export default function Opening() {
         </div>
 
         <p className="mt-6 text-[0.76rem] text-muted">
-          Online or at the centre · no payment · no obligation
+          {OPENING.note}
         </p>
       </div>
 

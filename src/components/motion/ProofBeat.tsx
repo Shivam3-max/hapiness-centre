@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useFormation } from "../stage/useFormation";
 import { TILES, STORY_COUNT, TOTAL_KG_LOST } from "@/data/stories";
+import { PROOF } from "@/data/copy";
 
 const STRIP = TILES.slice(0, 12);
 
@@ -11,7 +12,7 @@ export default function ProofBeat() {
   return (
     <section ref={section} className="relative flex min-h-[100svh] flex-col justify-center overflow-hidden py-24">
       <div className="mx-auto w-full max-w-[52rem] px-5 text-center">
-        <p className="eyebrow">The wall</p>
+        <p className="eyebrow">{PROOF.eyebrow}</p>
         <h2 className="editor mt-8 text-[clamp(2.2rem,6.4vw,5rem)] leading-[1.03] text-forest">
           {STORY_COUNT} people.
           <br />
@@ -38,7 +39,7 @@ export default function ProofBeat() {
       <div className="mt-14 text-center">
         <Link href="/transformations"
               className="inline-flex items-center gap-2.5 text-[0.9rem] font-semibold text-forest">
-          Every story, with the numbers
+          See all {STORY_COUNT} people
           <span aria-hidden className="grid h-8 w-8 place-items-center rounded-full border border-amber text-amber-deep">→</span>
         </Link>
       </div>

@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useFormation } from "../stage/useFormation";
+import { CLOSE } from "@/data/copy";
 
 const MODES = {
   centre: {
@@ -24,12 +25,12 @@ export default function FreeDayClose() {
   return (
     <section ref={section} className="relative flex min-h-[100svh] items-center justify-center px-5 py-24">
       <div className="w-full max-w-[46rem] text-center">
-        <p className="eyebrow">No card · no commitment</p>
+        <p className="eyebrow">{CLOSE.eyebrow}</p>
 
         <h2 className="editor mt-8 text-[clamp(2.4rem,7.4vw,6rem)] leading-[1.02] text-forest">
-          Your first day
+          {CLOSE.line1}
           <br />
-          is <em className="italic text-amber-deep">free</em>.
+          {CLOSE.line2} <em className="italic text-amber-deep">{CLOSE.accent}</em>.
         </h2>
 
         <div className="mt-10 inline-flex rounded-full border border-hairline bg-white/70 p-1 backdrop-blur-sm">
@@ -42,7 +43,7 @@ export default function FreeDayClose() {
           ))}
         </div>
 
-        <p key={mode} className="mx-auto mt-8 max-w-[42ch] text-[1rem] leading-relaxed text-muted animate-[fadeUp_.5s_ease-out]">
+        <p key={mode} className="enter mx-auto mt-8 max-w-[42ch] text-[1rem] leading-relaxed text-muted">
           {m.line}
         </p>
 
