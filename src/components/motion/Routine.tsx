@@ -2,6 +2,7 @@
 import { useEffect, useRef } from "react";
 import { subscribeScroll } from "@/lib/scrollStore";
 import { useFormation } from "../stage/useFormation";
+import { visibility } from "@/lib/sequence";
 import Placeholder from "./Placeholder";
 import { ROUTINE } from "@/data/routine";
 
@@ -25,14 +26,14 @@ export default function Routine() {
 
       texts.current.forEach((node, i) => {
         if (!node) return;
-        const vis = Math.max(0, 1 - Math.abs(local - i) * 1.35);
+        const vis = visibility(local - i);
         node.style.opacity = String(vis);
-        node.style.transform = `translate3d(0, ${(local - i) * -1.6}rem, 0)`;
+        node.style.transform = `translate3d(0, ${(local - i) * -1.2}rem, 0)`;
       });
       shots.current.forEach((node, i) => {
         if (!node) return;
         const d = local - i;
-        const vis = Math.max(0, 1 - Math.abs(d) * 1.2);
+        const vis = visibility(d);
         node.style.opacity = String(vis);
         node.style.transform = `translate3d(0, ${d * -3}%, 0) scale(${1 + (1 - vis) * 0.05})`;
         node.style.clipPath = `inset(${Math.max(0, d * 42)}% 0 ${Math.max(0, -d * 42)}% 0)`;

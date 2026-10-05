@@ -37,7 +37,7 @@ export default function DayClock() {
               style={{ top: "0%" }} />
       </span>
       <span ref={label}
-            className="text-[0.56rem] uppercase tracking-[0.26em] text-muted [writing-mode:vertical-rl]">
+            className="text-[0.7rem] lg:text-[0.6rem] uppercase tracking-[0.26em] text-muted [writing-mode:vertical-rl]">
         Morning
       </span>
     </aside>

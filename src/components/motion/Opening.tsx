@@ -12,7 +12,7 @@ export default function Opening() {
   // the opening lifts and dissolves as you leave it
   useEffect(() =>
     subscribeScroll(({ y, vh }) => {
-      const k = Math.min(1, y / (vh * 0.85));
+      const k = Math.min(1, Math.max(0, (y - vh * 0.22) / (vh * 0.78)));
       if (inner.current) {
         inner.current.style.opacity = String(1 - k);
         inner.current.style.transform = `translate3d(0, ${k * -4}rem, 0)`;
@@ -50,10 +50,10 @@ export default function Opening() {
         </p>
       </div>
 
-      <p className="absolute bottom-7 right-6 hidden text-[0.56rem] uppercase tracking-[0.18em] text-muted lg:block">
+      <p className="absolute bottom-7 right-6 hidden text-[0.7rem] lg:text-[0.6rem] uppercase tracking-[0.18em] text-muted lg:block">
         fig. 01 — one day, at rest
       </p>
-      <p className="absolute bottom-7 left-1/2 -translate-x-1/2 text-[0.56rem] uppercase tracking-[0.22em] text-muted">
+      <p className="absolute bottom-7 left-1/2 -translate-x-1/2 text-[0.7rem] lg:text-[0.6rem] uppercase tracking-[0.22em] text-muted">
         Scroll
       </p>
     </section>

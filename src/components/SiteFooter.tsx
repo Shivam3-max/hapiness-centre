@@ -25,7 +25,7 @@ export default function SiteFooter() {
               {a.locality}, {a.region} {a.postal}
             </address>
             {SITE.phone ? (
-              <a href={`tel:${SITE.phone}`} className="mt-4 inline-block underline underline-offset-4">
+              <a href={`tel:${SITE.phone}`} className="mt-4 inline-flex min-h-10 items-center underline underline-offset-4">
                 {SITE.phone}
               </a>
             ) : null}

@@ -7,7 +7,7 @@ export default function Wordmark({ className = "h-8 sm:h-9" }: { className?: str
         <span className="block font-display text-[1.05rem] font-semibold tracking-[-0.02em] text-forest">
           Happiness
         </span>
-        <span className="block text-[0.62rem] font-semibold uppercase tracking-[0.3em] text-leaf">
+        <span className="block text-[0.7rem] lg:text-[0.62rem] font-semibold uppercase tracking-[0.3em] text-leaf">
           Centre
         </span>
       </span>

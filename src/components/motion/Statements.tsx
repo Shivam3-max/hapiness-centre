@@ -2,6 +2,7 @@
 import { useEffect, useRef } from "react";
 import { subscribeScroll } from "@/lib/scrollStore";
 import { useFormation } from "../stage/useFormation";
+import { visibility, MAX_BLUR } from "@/lib/sequence";
 
 /**
  * One sentence at a time. Scroll drives a cross-fade through the set — the
@@ -32,10 +33,11 @@ export default function Statements({
 
       items.current.forEach((node, i) => {
         if (!node) return;
-        const vis = Math.max(0, 1 - Math.abs(local - i) * 1.25);
+        const vis = visibility(local - i);
         node.style.opacity = String(vis);
-        node.style.transform = `translate3d(0, ${(local - i) * -2.2}rem, 0) scale(${0.97 + vis * 0.03})`;
-        node.style.filter = `blur(${(1 - vis) * 9}px)`;
+        node.style.transform = `translate3d(0, ${(local - i) * -1.5}rem, 0) scale(${0.985 + vis * 0.015})`;
+        // only blur once it is genuinely on its way out
+        node.style.filter = vis > 0.98 ? "none" : `blur(${(1 - vis) * MAX_BLUR}px)`;
       });
       dashes.current.forEach((s, i) => {
         if (s) s.style.opacity = i === active ? "1" : "0.26";

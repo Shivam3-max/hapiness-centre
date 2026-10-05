@@ -38,7 +38,7 @@ export default function ProofBeat() {
 
       <div className="mt-14 text-center">
         <Link href="/transformations"
-              className="inline-flex items-center gap-2.5 text-[0.9rem] font-semibold text-forest">
+              className="inline-flex min-h-11 items-center gap-2.5 py-2 text-[0.9rem] font-semibold text-forest">
           See all {STORY_COUNT} people
           <span aria-hidden className="grid h-8 w-8 place-items-center rounded-full border border-amber text-amber-deep">→</span>
         </Link>
